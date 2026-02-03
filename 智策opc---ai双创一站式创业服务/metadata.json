@@ -1,0 +1,8 @@
+{
+  "name": "智策OPC - AI双创一站式创业服务",
+  "description": "基于AI赋能的一人公司(OPC)创业服务体系，涵盖项目辅导、竞赛评审及胜任力引导，助力创客从0到1。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
